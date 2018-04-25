@@ -1,0 +1,1662 @@
+
+Cicle num:  1
+-------------------------------------------------------------
+mobil entra a la clinica (CIRUGIA)
+Entra la mascota mobil a la consulta  1 (CIRUGIA)
+A la consulta  1 li falten  7 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta tancada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  2
+-------------------------------------------------------------
+bernat entra a la clinica (CURA)
+A la consulta  1 li falten  6 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta tancada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  3
+-------------------------------------------------------------
+tomeu entra a la clinica (REVISIO)
+A la consulta  1 li falten  5 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta tancada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  4
+-------------------------------------------------------------
+A la consulta  1 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta tancada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  5
+-------------------------------------------------------------
+A la consulta  1 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta tancada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  6
+-------------------------------------------------------------
+Obrim la consulta  2
+Entra la mascota bernat a la consulta  2 (CURA)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  7
+-------------------------------------------------------------
+cafe entra a la clinica (CURA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  8
+-------------------------------------------------------------
+La mascota mobil ha sortit de la consulta  1 (CIRUGIA)
+Tancam la consulta  1
+A la consulta  2 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  9
+-------------------------------------------------------------
+iphone entra a la clinica (REVISIO)
+A la consulta  2 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  10
+-------------------------------------------------------------
+maria entra a la clinica (CURA)
+La mascota bernat ha sortit de la consulta  2 (CURA)
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  11
+-------------------------------------------------------------
+biel entra a la clinica (REVISIO)
+Entra la mascota tomeu a la consulta  2 (REVISIO)
+A la consulta  2 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  12
+-------------------------------------------------------------
+anselm entra a la clinica (CIRUGIA)
+A la consulta  2 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  13
+-------------------------------------------------------------
+cotxe entra a la clinica (CIRUGIA)
+La mascota tomeu ha sortit de la consulta  2 (REVISIO)
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  14
+-------------------------------------------------------------
+xina entra a la clinica (CURA)
+Entra la mascota cafe a la consulta  2 (CURA)
+A la consulta  2 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  15
+-------------------------------------------------------------
+telm entra a la clinica (CURA)
+A la consulta  2 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  16
+-------------------------------------------------------------
+anselm entra a la clinica (REVISIO)
+A la consulta  2 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  17
+-------------------------------------------------------------
+uib entra a la clinica (CURA)
+A la consulta  2 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  18
+-------------------------------------------------------------
+montuiri entra a la clinica (REVISIO)
+La mascota cafe ha sortit de la consulta  2 (CURA)
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  19
+-------------------------------------------------------------
+laura entra a la clinica (CIRUGIA)
+Entra la mascota iphone a la consulta  2 (REVISIO)
+A la consulta  2 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  20
+-------------------------------------------------------------
+pisarra entra a la clinica (REVISIO)
+A la consulta  2 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  21
+-------------------------------------------------------------
+turmeda entra a la clinica (CURA)
+La mascota iphone ha sortit de la consulta  2 (REVISIO)
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  22
+-------------------------------------------------------------
+Entra la mascota maria a la consulta  2 (CURA)
+A la consulta  2 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  23
+-------------------------------------------------------------
+A la consulta  2 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  24
+-------------------------------------------------------------
+patrisia entra a la clinica (CURA)
+A la consulta  2 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  25
+-------------------------------------------------------------
+bernat entra a la clinica (CURA)
+A la consulta  2 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  26
+-------------------------------------------------------------
+laura entra a la clinica (CURA)
+La mascota maria ha sortit de la consulta  2 (CURA)
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  27
+-------------------------------------------------------------
+Entra la mascota anselm a la consulta  2 (CIRUGIA)
+A la consulta  2 li falten  7 cicles
+
+*******************************
+* La consulta  1 esta tancada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  28
+-------------------------------------------------------------
+Obrim la consulta  1
+Entra la mascota biel a la consulta  1 (REVISIO)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  6 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  29
+-------------------------------------------------------------
+ordenador entra a la clinica (CURA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  5 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  30
+-------------------------------------------------------------
+mobil entra a la clinica (CURA)
+La mascota biel ha sortit de la consulta  1 (REVISIO)
+A la consulta  2 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  31
+-------------------------------------------------------------
+Entra la mascota cotxe a la consulta  1 (CIRUGIA)
+A la consulta  1 li falten  7 cicles
+A la consulta  2 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  32
+-------------------------------------------------------------
+A la consulta  1 li falten  6 cicles
+A la consulta  2 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  33
+-------------------------------------------------------------
+bernat entra a la clinica (CURA)
+A la consulta  1 li falten  5 cicles
+A la consulta  2 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  34
+-------------------------------------------------------------
+A la consulta  1 li falten  4 cicles
+La mascota anselm ha sortit de la consulta  2 (CIRUGIA)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  35
+-------------------------------------------------------------
+Entra la mascota xina a la consulta  2 (CURA)
+A la consulta  1 li falten  3 cicles
+A la consulta  2 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta tancada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  36
+-------------------------------------------------------------
+Obrim la consulta  3
+xina entra a la clinica (CIRUGIA)
+Entra la mascota telm a la consulta  3 (CURA)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  37
+-------------------------------------------------------------
+maria entra a la clinica (REVISIO)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  38
+-------------------------------------------------------------
+La mascota cotxe ha sortit de la consulta  1 (CIRUGIA)
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  39
+-------------------------------------------------------------
+tofol entra a la clinica (CIRUGIA)
+Entra la mascota anselm a la consulta  1 (REVISIO)
+A la consulta  1 li falten  2 cicles
+La mascota xina ha sortit de la consulta  2 (CURA)
+A la consulta  3 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  40
+-------------------------------------------------------------
+Entra la mascota uib a la consulta  2 (CURA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  4 cicles
+La mascota telm ha sortit de la consulta  3 (CURA)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  41
+-------------------------------------------------------------
+Entra la mascota laura a la consulta  3 (CIRUGIA)
+La mascota anselm ha sortit de la consulta  1 (REVISIO)
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  7 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  42
+-------------------------------------------------------------
+aigo entra a la clinica (CURA)
+Entra la mascota montuiri a la consulta  1 (REVISIO)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  6 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  43
+-------------------------------------------------------------
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  5 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  44
+-------------------------------------------------------------
+La mascota montuiri ha sortit de la consulta  1 (REVISIO)
+La mascota uib ha sortit de la consulta  2 (CURA)
+A la consulta  3 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  45
+-------------------------------------------------------------
+bernat entra a la clinica (REVISIO)
+Entra la mascota pisarra a la consulta  1 (REVISIO)
+Entra la mascota turmeda a la consulta  2 (CURA)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  4 cicles
+A la consulta  3 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  46
+-------------------------------------------------------------
+Obrim la consulta  4
+biel entra a la clinica (CURA)
+Entra la mascota patrisia a la consulta  4 (CURA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  47
+-------------------------------------------------------------
+La mascota pisarra ha sortit de la consulta  1 (REVISIO)
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  1 cicles
+A la consulta  4 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  48
+-------------------------------------------------------------
+grillo entra a la clinica (REVISIO)
+Entra la mascota bernat a la consulta  1 (CURA)
+A la consulta  1 li falten  4 cicles
+A la consulta  2 li falten  1 cicles
+La mascota laura ha sortit de la consulta  3 (CIRUGIA)
+A la consulta  4 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  49
+-------------------------------------------------------------
+pisarra entra a la clinica (CURA)
+Entra la mascota laura a la consulta  3 (CURA)
+A la consulta  1 li falten  3 cicles
+La mascota turmeda ha sortit de la consulta  2 (CURA)
+A la consulta  3 li falten  4 cicles
+A la consulta  4 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  50
+-------------------------------------------------------------
+maria entra a la clinica (REVISIO)
+Entra la mascota ordenador a la consulta  2 (CURA)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  4 cicles
+A la consulta  3 li falten  3 cicles
+La mascota patrisia ha sortit de la consulta  4 (CURA)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  51
+-------------------------------------------------------------
+aigo entra a la clinica (CURA)
+Entra la mascota mobil a la consulta  4 (CURA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  52
+-------------------------------------------------------------
+La mascota bernat ha sortit de la consulta  1 (CURA)
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  1 cicles
+A la consulta  4 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  53
+-------------------------------------------------------------
+bernat entra a la clinica (CURA)
+Entra la mascota bernat a la consulta  1 (CURA)
+A la consulta  1 li falten  4 cicles
+A la consulta  2 li falten  1 cicles
+La mascota laura ha sortit de la consulta  3 (CURA)
+A la consulta  4 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  54
+-------------------------------------------------------------
+Entra la mascota xina a la consulta  3 (CIRUGIA)
+A la consulta  1 li falten  3 cicles
+La mascota ordenador ha sortit de la consulta  2 (CURA)
+A la consulta  3 li falten  7 cicles
+A la consulta  4 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  55
+-------------------------------------------------------------
+Entra la mascota maria a la consulta  2 (REVISIO)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  6 cicles
+La mascota mobil ha sortit de la consulta  4 (CURA)
+Tancam la consulta  4
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  56
+-------------------------------------------------------------
+bunyola entra a la clinica (REVISIO)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  5 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  57
+-------------------------------------------------------------
+La mascota bernat ha sortit de la consulta  1 (CURA)
+La mascota maria ha sortit de la consulta  2 (REVISIO)
+A la consulta  3 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  58
+-------------------------------------------------------------
+xisco entra a la clinica (CIRUGIA)
+Entra la mascota tofol a la consulta  1 (CIRUGIA)
+Entra la mascota aigo a la consulta  2 (CURA)
+A la consulta  1 li falten  7 cicles
+A la consulta  2 li falten  4 cicles
+A la consulta  3 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  59
+-------------------------------------------------------------
+tomeu entra a la clinica (CURA)
+A la consulta  1 li falten  6 cicles
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  60
+-------------------------------------------------------------
+patata entra a la clinica (REVISIO)
+A la consulta  1 li falten  5 cicles
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta tancada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  61
+-------------------------------------------------------------
+Obrim la consulta  4
+cotxe entra a la clinica (CIRUGIA)
+Entra la mascota bernat a la consulta  4 (REVISIO)
+A la consulta  1 li falten  4 cicles
+A la consulta  2 li falten  1 cicles
+La mascota xina ha sortit de la consulta  3 (CIRUGIA)
+A la consulta  4 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  62
+-------------------------------------------------------------
+llucia entra a la clinica (CURA)
+Entra la mascota biel a la consulta  3 (CURA)
+A la consulta  1 li falten  3 cicles
+La mascota aigo ha sortit de la consulta  2 (CURA)
+A la consulta  3 li falten  4 cicles
+A la consulta  4 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  63
+-------------------------------------------------------------
+isa entra a la clinica (CIRUGIA)
+Entra la mascota grillo a la consulta  2 (REVISIO)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  3 cicles
+La mascota bernat ha sortit de la consulta  4 (REVISIO)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  64
+-------------------------------------------------------------
+caca entra a la clinica (CURA)
+Entra la mascota pisarra a la consulta  4 (CURA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  65
+-------------------------------------------------------------
+loca1 entra a la clinica (CURA)
+La mascota tofol ha sortit de la consulta  1 (CIRUGIA)
+La mascota grillo ha sortit de la consulta  2 (REVISIO)
+A la consulta  3 li falten  1 cicles
+A la consulta  4 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  66
+-------------------------------------------------------------
+Entra la mascota maria a la consulta  1 (REVISIO)
+Entra la mascota aigo a la consulta  2 (CURA)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  4 cicles
+La mascota biel ha sortit de la consulta  3 (CURA)
+A la consulta  4 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta tancada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  67
+-------------------------------------------------------------
+Obrim la consulta  5
+Entra la mascota bernat a la consulta  3 (CURA)
+Entra la mascota bunyola a la consulta  5 (REVISIO)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  4 cicles
+A la consulta  4 li falten  1 cicles
+A la consulta  5 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  68
+-------------------------------------------------------------
+La mascota maria ha sortit de la consulta  1 (REVISIO)
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  3 cicles
+La mascota pisarra ha sortit de la consulta  4 (CURA)
+A la consulta  5 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  69
+-------------------------------------------------------------
+Entra la mascota xisco a la consulta  1 (CIRUGIA)
+Entra la mascota tomeu a la consulta  4 (CURA)
+A la consulta  1 li falten  7 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  4 cicles
+La mascota bunyola ha sortit de la consulta  5 (REVISIO)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta lliure  *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  70
+-------------------------------------------------------------
+monster entra a la clinica (CIRUGIA)
+Entra la mascota cotxe a la consulta  5 (CIRUGIA)
+A la consulta  1 li falten  6 cicles
+La mascota aigo ha sortit de la consulta  2 (CURA)
+A la consulta  3 li falten  1 cicles
+A la consulta  4 li falten  3 cicles
+A la consulta  5 li falten  7 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  71
+-------------------------------------------------------------
+Entra la mascota patata a la consulta  2 (REVISIO)
+A la consulta  1 li falten  5 cicles
+A la consulta  2 li falten  2 cicles
+La mascota bernat ha sortit de la consulta  3 (CURA)
+A la consulta  4 li falten  2 cicles
+A la consulta  5 li falten  6 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  72
+-------------------------------------------------------------
+mobil entra a la clinica (REVISIO)
+Entra la mascota llucia a la consulta  3 (CURA)
+A la consulta  1 li falten  4 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  4 cicles
+A la consulta  4 li falten  1 cicles
+A la consulta  5 li falten  5 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  73
+-------------------------------------------------------------
+A la consulta  1 li falten  3 cicles
+La mascota patata ha sortit de la consulta  2 (REVISIO)
+A la consulta  3 li falten  3 cicles
+La mascota tomeu ha sortit de la consulta  4 (CURA)
+A la consulta  5 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  74
+-------------------------------------------------------------
+patata entra a la clinica (CURA)
+Entra la mascota isa a la consulta  2 (CIRUGIA)
+Entra la mascota caca a la consulta  4 (CURA)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  7 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  4 cicles
+A la consulta  5 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  75
+-------------------------------------------------------------
+cafe entra a la clinica (CIRUGIA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  6 cicles
+A la consulta  3 li falten  1 cicles
+A la consulta  4 li falten  3 cicles
+A la consulta  5 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  76
+-------------------------------------------------------------
+La mascota xisco ha sortit de la consulta  1 (CIRUGIA)
+A la consulta  2 li falten  5 cicles
+La mascota llucia ha sortit de la consulta  3 (CURA)
+A la consulta  4 li falten  2 cicles
+A la consulta  5 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  77
+-------------------------------------------------------------
+bernat entra a la clinica (CIRUGIA)
+Entra la mascota loca1 a la consulta  1 (CURA)
+Entra la mascota monster a la consulta  3 (CIRUGIA)
+A la consulta  1 li falten  4 cicles
+A la consulta  2 li falten  4 cicles
+A la consulta  3 li falten  7 cicles
+A la consulta  4 li falten  1 cicles
+La mascota cotxe ha sortit de la consulta  5 (CIRUGIA)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta lliure  *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  78
+-------------------------------------------------------------
+eric entra a la clinica (CIRUGIA)
+Entra la mascota mobil a la consulta  5 (REVISIO)
+A la consulta  1 li falten  3 cicles
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  6 cicles
+La mascota caca ha sortit de la consulta  4 (CURA)
+A la consulta  5 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  79
+-------------------------------------------------------------
+maria entra a la clinica (CIRUGIA)
+Entra la mascota patata a la consulta  4 (CURA)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  5 cicles
+A la consulta  4 li falten  4 cicles
+A la consulta  5 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  80
+-------------------------------------------------------------
+jovellanos entra a la clinica (CIRUGIA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  4 cicles
+A la consulta  4 li falten  3 cicles
+La mascota mobil ha sortit de la consulta  5 (REVISIO)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta lliure  *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  81
+-------------------------------------------------------------
+isa entra a la clinica (CURA)
+Entra la mascota cafe a la consulta  5 (CIRUGIA)
+La mascota loca1 ha sortit de la consulta  1 (CURA)
+La mascota isa ha sortit de la consulta  2 (CIRUGIA)
+A la consulta  3 li falten  3 cicles
+A la consulta  4 li falten  2 cicles
+A la consulta  5 li falten  7 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  82
+-------------------------------------------------------------
+tomeu entra a la clinica (CIRUGIA)
+Entra la mascota bernat a la consulta  1 (CIRUGIA)
+Entra la mascota eric a la consulta  2 (CIRUGIA)
+A la consulta  1 li falten  7 cicles
+A la consulta  2 li falten  7 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  1 cicles
+A la consulta  5 li falten  6 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  83
+-------------------------------------------------------------
+A la consulta  1 li falten  6 cicles
+A la consulta  2 li falten  6 cicles
+A la consulta  3 li falten  1 cicles
+La mascota patata ha sortit de la consulta  4 (CURA)
+A la consulta  5 li falten  5 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  84
+-------------------------------------------------------------
+marta entra a la clinica (CURA)
+Entra la mascota maria a la consulta  4 (CIRUGIA)
+A la consulta  1 li falten  5 cicles
+A la consulta  2 li falten  5 cicles
+La mascota monster ha sortit de la consulta  3 (CIRUGIA)
+A la consulta  4 li falten  7 cicles
+A la consulta  5 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  85
+-------------------------------------------------------------
+pisarra entra a la clinica (CURA)
+Entra la mascota jovellanos a la consulta  3 (CIRUGIA)
+A la consulta  1 li falten  4 cicles
+A la consulta  2 li falten  4 cicles
+A la consulta  3 li falten  7 cicles
+A la consulta  4 li falten  6 cicles
+A la consulta  5 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  86
+-------------------------------------------------------------
+blanca entra a la clinica (REVISIO)
+A la consulta  1 li falten  3 cicles
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  6 cicles
+A la consulta  4 li falten  5 cicles
+A la consulta  5 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  87
+-------------------------------------------------------------
+aigo entra a la clinica (REVISIO)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  5 cicles
+A la consulta  4 li falten  4 cicles
+A la consulta  5 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  88
+-------------------------------------------------------------
+iphone entra a la clinica (CIRUGIA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  4 cicles
+A la consulta  4 li falten  3 cicles
+La mascota cafe ha sortit de la consulta  5 (CIRUGIA)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta lliure  *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  89
+-------------------------------------------------------------
+paco entra a la clinica (CURA)
+Entra la mascota isa a la consulta  5 (CURA)
+La mascota bernat ha sortit de la consulta  1 (CIRUGIA)
+La mascota eric ha sortit de la consulta  2 (CIRUGIA)
+A la consulta  3 li falten  3 cicles
+A la consulta  4 li falten  2 cicles
+A la consulta  5 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  90
+-------------------------------------------------------------
+turmeda entra a la clinica (REVISIO)
+Entra la mascota tomeu a la consulta  1 (CIRUGIA)
+Entra la mascota marta a la consulta  2 (CURA)
+A la consulta  1 li falten  7 cicles
+A la consulta  2 li falten  4 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  1 cicles
+A la consulta  5 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  91
+-------------------------------------------------------------
+marta entra a la clinica (CURA)
+A la consulta  1 li falten  6 cicles
+A la consulta  2 li falten  3 cicles
+A la consulta  3 li falten  1 cicles
+La mascota maria ha sortit de la consulta  4 (CIRUGIA)
+A la consulta  5 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  92
+-------------------------------------------------------------
+finestra entra a la clinica (REVISIO)
+Entra la mascota pisarra a la consulta  4 (CURA)
+A la consulta  1 li falten  5 cicles
+A la consulta  2 li falten  2 cicles
+La mascota jovellanos ha sortit de la consulta  3 (CIRUGIA)
+A la consulta  4 li falten  4 cicles
+A la consulta  5 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  93
+-------------------------------------------------------------
+Entra la mascota blanca a la consulta  3 (REVISIO)
+A la consulta  1 li falten  4 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  3 cicles
+La mascota isa ha sortit de la consulta  5 (CURA)
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta lliure  *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  94
+-------------------------------------------------------------
+Entra la mascota iphone a la consulta  5 (CIRUGIA)
+A la consulta  1 li falten  3 cicles
+La mascota marta ha sortit de la consulta  2 (CURA)
+A la consulta  3 li falten  1 cicles
+A la consulta  4 li falten  2 cicles
+A la consulta  5 li falten  7 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  95
+-------------------------------------------------------------
+serra entra a la clinica (REVISIO)
+Entra la mascota aigo a la consulta  2 (REVISIO)
+A la consulta  1 li falten  2 cicles
+A la consulta  2 li falten  2 cicles
+La mascota blanca ha sortit de la consulta  3 (REVISIO)
+A la consulta  4 li falten  1 cicles
+A la consulta  5 li falten  6 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  96
+-------------------------------------------------------------
+biel entra a la clinica (CURA)
+Entra la mascota paco a la consulta  3 (CURA)
+A la consulta  1 li falten  1 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  4 cicles
+La mascota pisarra ha sortit de la consulta  4 (CURA)
+A la consulta  5 li falten  5 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  97
+-------------------------------------------------------------
+telm entra a la clinica (CURA)
+Entra la mascota turmeda a la consulta  4 (REVISIO)
+La mascota tomeu ha sortit de la consulta  1 (CIRUGIA)
+La mascota aigo ha sortit de la consulta  2 (REVISIO)
+A la consulta  3 li falten  3 cicles
+A la consulta  4 li falten  2 cicles
+A la consulta  5 li falten  4 cicles
+
+*******************************
+* La consulta  1 esta lliure  *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  98
+-------------------------------------------------------------
+Entra la mascota marta a la consulta  1 (CURA)
+Entra la mascota finestra a la consulta  2 (REVISIO)
+A la consulta  1 li falten  4 cicles
+A la consulta  2 li falten  2 cicles
+A la consulta  3 li falten  2 cicles
+A la consulta  4 li falten  1 cicles
+A la consulta  5 li falten  3 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  99
+-------------------------------------------------------------
+A la consulta  1 li falten  3 cicles
+A la consulta  2 li falten  1 cicles
+A la consulta  3 li falten  1 cicles
+La mascota turmeda ha sortit de la consulta  4 (REVISIO)
+A la consulta  5 li falten  2 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta ocupada *
+* La consulta  3 esta ocupada *
+* La consulta  4 esta lliure  *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
+
+Cicle num:  100
+-------------------------------------------------------------
+llucia entra a la clinica (CIRUGIA)
+Entra la mascota serra a la consulta  4 (REVISIO)
+A la consulta  1 li falten  2 cicles
+La mascota finestra ha sortit de la consulta  2 (REVISIO)
+La mascota paco ha sortit de la consulta  3 (CURA)
+A la consulta  4 li falten  2 cicles
+A la consulta  5 li falten  1 cicles
+
+*******************************
+* La consulta  1 esta ocupada *
+* La consulta  2 esta lliure  *
+* La consulta  3 esta lliure  *
+* La consulta  4 esta ocupada *
+* La consulta  5 esta ocupada *
+*******************************
+-------------------------------------------------------------
